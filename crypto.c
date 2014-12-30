@@ -70,7 +70,7 @@ int main(void)
 				printf("Give the key: ");
 				read_line( key , MAX_LEN_PLAINTEXT );  // the actual length of user's key. 
 				key_repeat( plain , key); 
-				puts(key);
+				puts("Key is: "); puts(key);
 				printf("\n Cipher: %s " , vigenere_crypto(plain, key) );
 				printf("\n Plaintext: %s ", vigenere_decrypto( plain , key) );
 				break;         
@@ -82,6 +82,7 @@ int main(void)
 			        break;
 	        case 4 :	printf("Bye!");
 				exit(EXIT_SUCCESS);
+	        default:        printf("There is no such option. Try again!");
 	    }
 	 }
 	
