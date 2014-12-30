@@ -19,13 +19,13 @@
                      "*******    * *       *     *        *      *******\n" \
                      
 #define CREDITS             "*****************************************\n"\
-			                      "* Author: Kwstas Tsit                   *\n"\
-			                      "* Email: obvius1342@yahoo.gr            *\n"\
-			                      "* Date: 19/12/2014                      *\n"\
-			                      "* Type : Encryption/Decryption          *\n"\
-			                      "* Method: Vigenere Algorithm            *\n"\
-			                      "* More info: Google Vigenere Algorithm  *\n"\
-			                     "*****************************************\n"\
+			    "* Author: Kwstas Tsit                   *\n"\
+			    "* Email: obvius1342@yahoo.gr            *\n"\
+			    "* Date: 19/12/2014                      *\n"\
+			    "* Type : Encryption/Decryption          *\n"\
+			    "* Method: Vigenere Algorithm            *\n"\
+			    "* More info: Google Vigenere Algorithm  *\n"\
+			    "*****************************************\n"\
 
 #define HELP "\nTo encrypt, a table of alphabets can be used, termed a tabula recta the table that you are seing , Vigenere square, or Vigenere table.\n"\
              "It consists of the alphabet written out 26 times in different rows, each alphabet shifted cyclically to the left compared to the previous alphabet\n"\
