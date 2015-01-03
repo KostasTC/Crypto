@@ -36,7 +36,7 @@
              "For successive letters of the message, we are going to take successive letters of the key string, and encipher each message letter using its corresponding key row.\n"\
              "Choose the next letter of the key, go along that row to find the column heading that matches the message character; the letter at the intersection of [key-row, msg-col] is the enciphered letter.\n"\
              "Decryption is performed by going to the row in the table corresponding to the key, finding the position of the ciphertext letter in this row, and then using the column's label as the plaintext.\n"\
-             "This program is used only the latin alphabet, does not work with other.\n"\
+             "This program uses only the latin alphabet, does not work with other.\n"\
                                 
 char *vigenere_crypto( char *plain, char *key);
 char *vigenere_decrypto( char *encrypted , char *key);
