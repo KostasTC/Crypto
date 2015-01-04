@@ -1,6 +1,6 @@
 /**************************************************************
  * Description: Simple Vigenere Ciphering/Deciphering program
- * Licence : Public 
+ * Licence : GNU GPL
  * ************************************************************/
 #include<stdio.h>
 #include<ctype.h>
