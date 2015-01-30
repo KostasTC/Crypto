@@ -9,7 +9,7 @@
 			    "* Email: obvius1342@yahoo.gr            *\n"\
 			    "* Date: 19/12/2014                      *\n"\
 			    "* Type : Encryption/Decryption          *\n"\
-			    "* Method: Vigenere Algorithm            *\n"\
+			    "* License: GNU GPL                      *\n"\
 			    "* More info: Google Vigenere Algorithm  *\n"\
 			    "*****************************************\n"\
 
